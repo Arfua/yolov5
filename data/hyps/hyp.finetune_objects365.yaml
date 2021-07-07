@@ -14,6 +14,7 @@ iou_t: 0.2
 anchor_t: 3.44
 anchors: 3.2
 fl_gamma: 0.0
+vfl_gamma: 0.0
 hsv_h: 0.0188
 hsv_s: 0.704
 hsv_v: 0.36
